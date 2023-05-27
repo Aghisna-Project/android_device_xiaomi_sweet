@@ -71,7 +71,7 @@ BOARD_KERNEL_SEPARATED_DTBO := true
 
 TARGET_KERNEL_CLANG_COMPILE := true
 TARGET_KERNEL_CONFIG := sweet_defconfig
-TARGET_KERNEL_SOURCE := kernel/xiaomi/sweet
+TARGET_KERNEL_SOURCE := kernel/xiaomi/sm6150
 KERNEL_LD := LD=ld.lld
 
 # Manifest
